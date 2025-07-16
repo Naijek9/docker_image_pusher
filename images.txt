@@ -1,2 +1,2 @@
 nacos/nacos-server:latest
---platform=linux/arm64 jewsoft/alist
+--platform=linux/amd64
