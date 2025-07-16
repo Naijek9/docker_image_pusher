@@ -1,2 +1,4 @@
+bladex/sentinel-dashboard:latest
 seataio/seata-server:latest
+nacos/nacos-server:latest
 --platform=linux/amd64 jewsoft
