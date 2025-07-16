@@ -1,2 +1,2 @@
-seataio/seata-server:2.0.0:latest
+seataio/seata-server:latest
 --platform=linux/amd64 jewsoft
