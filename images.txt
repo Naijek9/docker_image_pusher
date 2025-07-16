@@ -1,2 +1,2 @@
-nacos/nacos-server:latest
+seataio/seata-server:2.0.0:latest
 --platform=linux/amd64 jewsoft
